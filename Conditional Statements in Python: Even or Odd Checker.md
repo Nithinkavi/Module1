@@ -21,4 +21,5 @@ else:
 
 <img width="797" height="649" alt="Screenshot 2026-04-26 131908" src="https://github.com/user-attachments/assets/4403b861-6759-4e39-afd3-7822410fbf6e" />
 ## Result
-Thus,the python program to check if the given number is odd or even using if-else is executed successfully.
+
+ Thus,the python program to check if the given number is odd or even using if- else is executed successfully.
